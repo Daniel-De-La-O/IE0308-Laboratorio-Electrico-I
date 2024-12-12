@@ -1,2 +1,2 @@
-# IE0308-Laboratorio-Electrico-I
-Proyecto final del curso de laboratorio eléctrico I: Órgano electrónico
+# IE0308-Lab-Electricónica-I
+Proyecto final del curso de laboratorio de electrónica I: Órgano electrónico
